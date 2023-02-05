@@ -31,7 +31,7 @@ Os projetos foram desenvolvidos com as seguintes tecnologias:
 
 Para acessar os projetos desenvolvidos durante a imersão, acesse essa página que direciona para o código de cada um deles, além de detalhar tudo o que foi visto durante esse evento: 
 
-- [Visite os projetos online](https://nathaliabeatriz.github.io/simple-calculator/)
+- [Visite os projetos online](https://nathaliabeatriz.github.io/projetos-imersao-dev/)
 
 ---
 
