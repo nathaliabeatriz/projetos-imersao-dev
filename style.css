@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: linear-gradient(to right, #002912, #00662c, #007c67);
+    font-family: 'Montserrat';
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    height: fit-content;
+    position: fixed;
+    left: 0;
+    top: 10px;
+}
+
+header, footer{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.7);
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0;
+    width: 100vw;
+}
+
+footer{
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+}
+
+nav{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+#logo-alura{
+    width: 190px;
+    padding: 10px;
+}
+
+nav li, a{
+    list-style: none;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+nav li{
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+nav li:hover{
+    background-color: #ffffff;
+    color: #000000;
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.content{
+    margin: 130px 0px;
+    line-height: 30px;
+    width: 70vw;
+}
+
+.content h2{
+    text-indent: 1.1em;
+}
+
+.content p{
+    text-indent: 1.5em;
+    text-align: justify;
+}
+
+.content ul{
+    margin-left: 60px;
+}
+
+.icon{
+    width: 20px;
+    margin-right: 6px;
+}
+
+footer a{
+    display: flex;
+    margin-top: 20px;
+}
+
+footer p{
+    opacity: 0.5;
+}
