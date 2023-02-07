@@ -15,7 +15,7 @@ Projetos criados durante a Imersão Dev da Alura<br/>
 
 ## ❔ Sobre
 
-Essa página traz meus projetos desenvolvidos durante a Imersão Dev, que aconteceu do dia 30/01/2023 a 06/02/2023.
+Essa página traz meus projetos desenvolvidos durante a Imersão Dev da Alura, que aconteceu do dia 30/01/2023 a 06/02/2023.
 
 ---
 
